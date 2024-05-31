@@ -1,1 +1,1 @@
-# Notes
+Activity Notes for reference.
